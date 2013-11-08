@@ -1,0 +1,24 @@
+{
+  "name": "ilint",
+  "description": "Easy to make project!",
+  "version": "0.0.1",
+  "author": "miclay",
+  "keywords": [
+    "lint",
+    "test",
+    "hint",
+    "ilint"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miclay/ilint.git"
+  },
+  "main": "bin/ilint",
+  "bin": {
+    "ilint": "./bin/ilint",
+    "lint": "./bin/ilint"
+  },
+  "dependencies": {
+  },
+  "license": "MIT"
+}
